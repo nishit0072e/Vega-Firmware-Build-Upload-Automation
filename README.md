@@ -26,6 +26,7 @@ make build
 ```sh
 make upload
 ```
+Before Running ```make upload``` change COM PORT number & uploading tools locations upon your system. Given COM Port and locations are my system specific.
 Upon Running this command A Prompt will be generated for selecting the uplaoding method:
 - 1️⃣ **Upload via XMODEM**
 - 2️⃣ **Upload via FLASHER**
