@@ -1,3 +1,5 @@
+![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1sa7FqqlQVvSHvxl-rlpHxIXu3ZU8VghDlw&s)
+![board](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz9e8oIw5dMQcbu74iiV59oWjToqgbEA2E1Q&s)
 # CMake-Makefile-Firmware-Automation 🚀
 
 This repository provides a streamlined workflow for building C programs using **CMake** and **Ninja** to generate ELF files, with automated firmware uploading using **Makefile** and **batch scripts**. It eliminates the need for manually executing commands, making the development process faster and more efficient.
