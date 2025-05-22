@@ -2,7 +2,7 @@
 setlocal enabledelayedexpansion
 
 :: Configuration
-set PORT=COM5
+set PORT=COM5 :: Change COM Port with your COM port
 set FLASHER_DIR=C:\RISCV\vega-flasher-windows
 set XMODEM_DIR=C:\RISCV\vega-xmodem-windows
 set FLASHER=flasher.bat
